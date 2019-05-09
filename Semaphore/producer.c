@@ -21,7 +21,7 @@ Due Date: Demo your program in our class’ lab session on 04/23/2019.
 #include <sys/stat.h>
 #include <sys/ipc.h>
 #include <sys/sem.h>
-#define PUB7645 "/tmp/PUB7645"
+#define DharaNidhi "/tmp/DharaNidhi"
 
 union semun {
    int val;
